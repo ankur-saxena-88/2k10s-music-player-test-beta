@@ -25,7 +25,7 @@ To run this project on your local machine:
 
 1. **Download the Code**: Clone or download the repository to your local machine.
     ```bash
-    [git clone https://github.com/your-username/2k10-music-player.git](https://github.com/ankur-saxena-88/2k10s-music-player-test-beta.git)
+    https://github.com/ankur-saxena-88/2k10s-music-player-test-beta.git
     ```
 2. **Open `index.html`**: Navigate to the project folder and open the `index.html` file in your preferred browser.
 3. **Enjoy!**: Use the file input to upload your songs and enjoy listening!
