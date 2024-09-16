@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2k10's-Music-Player-Test-Beta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="music-player-container">
+        <div class="music-player">
+            <header style="text-align: left;">
+                <h2 style="color: aquamarine;">"Sangeetmala!" Test-Beta</h2>
+            </header>
+            
+            <h2 id="song-title" style="text-align: center;">Select a Song</h2>
+
+            <div class="controls">
+                <button id="prev" class="control-button">Prev</button>
+                <button id="play-pause" class="control-button">Play</button>
+                <button id="next" class="control-button">Next</button>
+            </div>
+
+            <div class="progress-section">
+                <input type="range" id="progress" value="0" min="0" max="100">
+            </div>
+
+            <div class="volume-section">
+                <label for="volume">Volume:</label>
+                <input type="range" id="volume" min="0" max="100" value="50">
+            </div>
+
+            <div class="playlist-section">
+                <input type="file" id="file-input" multiple accept="audio/*" />
+                <button id="save-playlist" class="control-button">Save Playlist</button>
+                <button id="load-playlist" class="control-button">Load Playlist</button>
+            </div>
+
+            <!-- Display Playlist -->
+            <div id="playlist-display" class="playlist-display">
+                <p>No songs selected</p>
+            </div>
+
+            <!-- Footer Section -->
+            <footer class="footer">
+                <p>2k10's Music Player Test Beta | Developed by Ankur Saxena | &copy; 2024 All Rights Reserved</p>
+            </footer>
+        </div>
+
+        <audio id="audio-player"></audio>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
