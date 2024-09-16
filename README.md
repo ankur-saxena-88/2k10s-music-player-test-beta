@@ -30,24 +30,4 @@ To run this project on your local machine:
 2. **Open `index.html`**: Navigate to the project folder and open the `index.html` file in your preferred browser.
 3. **Enjoy!**: Use the file input to upload your songs and enjoy listening!
 
-## Contribution Guidelines 🤝
-
-This project is open source and welcomes contributions from everyone! Whether you're an absolute beginner or an experienced developer, feel free to:
-
-- **Fix Issues**: If you find any bugs or issues, feel free to submit a pull request.
-- **Add New Features**: You can enhance the player by adding new functionalities (e.g., shuffle, repeat, or new design improvements).
-- **Improve Documentation**: Help us improve this `README.md` or add more detailed instructions.
-
-Simply fork the repository, create a new branch for your feature, and open a pull request when you're ready.
-
-```bash
-# Fork the repo
-git fork https://github.com/your-username/2k10-music-player.git
-
-# Create a new branch
-git checkout -b feature/your-feature-name
-
-# Push your branch and open a pull request
-git push origin feature/your-feature-name
-
 Feel free to explore, provide feedback, or contribute to its development. 🎶
