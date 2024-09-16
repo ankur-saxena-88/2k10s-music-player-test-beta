@@ -2,6 +2,7 @@
 
 Welcome to the **"Sangeetmala!" Music Player - Test Beta**, a simple, nostalgic, and responsive web-based music player inspired by the early 2010s design style. This project is perfect for beginners looking to explore web development or contribute to an open-source project.
 
+![Early 2010's Music Player Test Beta](./2k10s-music-player-test-beta-screenshot.png)
 ## Key Features ✨
 
 - **Minimalistic Early 2010s UI**: A throwback to the music players of the early 2010s with a sleek and simple design.
