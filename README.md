@@ -49,3 +49,5 @@ git checkout -b feature/your-feature-name
 
 # Push your branch and open a pull request
 git push origin feature/your-feature-name
+
+Feel free to explore, provide feedback, or contribute to its development. 🎶
