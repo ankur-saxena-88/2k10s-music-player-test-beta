@@ -96,7 +96,7 @@ function adjustPlayerHeight(songCount) {
     const player = document.querySelector('.music-player');
     
     // Limit height of the playlist section for scrolling
-    if (songCount > 5) {
+    if (songCount > 3) {
         playlistDisplay.style.maxHeight = '150px';
         playlistDisplay.style.overflowY = 'scroll';
     } else {
